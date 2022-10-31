@@ -2,6 +2,7 @@ package lab1;
 
 public class main {
     public static void main(String[] args){
+        System.out.println("Hello asya");
         person p1=new person("Петрова", false);
         person p2=new person();
         person p3=new person();
